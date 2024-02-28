@@ -9,4 +9,4 @@ fun main() {
     println(tripleQuotedString)
 }
 
-untuk menghilangkan awalannya ("#")
+//untuk menghilangkan awalannya ("#")
