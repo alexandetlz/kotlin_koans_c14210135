@@ -8,5 +8,5 @@ fun useFoo() = listOf(
         foo(name = "d", number = 2, toUpperCase = true)
 )
 
-menggantikan function yang panjang (bawah) dengan function yang lebih pendek dan efektif (atas).
-function ini membuat yang toUpperCasenya true menjadi upper case dan yang tidak maka tetap
+//menggantikan function yang panjang (bawah) dengan function yang lebih pendek dan efektif (atas).
+//function ini membuat yang toUpperCasenya true menjadi upper case dan yang tidak maka tetap
