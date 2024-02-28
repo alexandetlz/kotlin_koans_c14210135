@@ -13,4 +13,4 @@ interface Mailer {
     fun sendMessage(email: String, message: String)
 }
 
-menggantikan banyak if dan ? untuk menerima null lalu dilakukan pengecekan 
+//menggantikan banyak if dan ? untuk menerima null lalu dilakukan pengecekan 
